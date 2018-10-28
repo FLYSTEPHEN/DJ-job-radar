@@ -58,7 +58,7 @@ websites = [
     }, 
     {
         "website": 'indeed',
-        "base_url": 'https://www.indeed.hk/jobs?q=Data+Journalist+Internship&start=',
+        "base_url": 'https://www.indeed.com/jobs?q=Data+Journalist+Internship&start=',
         "starting_index": 0,        
         "step": 10,
         "function": scrape_indeed 
