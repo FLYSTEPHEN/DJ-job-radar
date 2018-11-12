@@ -3,6 +3,7 @@
 **A brand new concise version after 2 weeks shelved!**
 - use DataFrame to replace csv
 - add description of each job
+- add word frequency statistics of all descriptions
 - add np.nan to replace blank
 ### there is 2 remain thinking:
 - [ ] I use two different series of source to scrape the description and the other information respectively - the job’s own page for description and the index page for the other information.
